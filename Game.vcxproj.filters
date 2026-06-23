@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Game">
+      <UniqueIdentifier>{b002c5bf-e60e-4d07-a093-6a01372a9e0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\2Home">
+      <UniqueIdentifier>{2ac83ad2-d92e-44b9-a193-524c9a7d6ee6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\2Home\!Home">
+      <UniqueIdentifier>{f473a7f4-a7be-4bef-98c9-d4cd8c3fec51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\1Tittle">
+      <UniqueIdentifier>{e610d28f-bb63-4296-a9ab-8449e7b5f12b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\1Tittle\!Tittle">
+      <UniqueIdentifier>{1ffbee5a-3c78-4b98-8021-b0953de30ea1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\3StageSelect">
+      <UniqueIdentifier>{38ead2c5-9d6d-4c9e-b65b-9cd9088f47b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\3StageSelect\!StageSelect">
+      <UniqueIdentifier>{63cae6d1-7aa4-4829-b038-0ba6d0cfad84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game">
+      <UniqueIdentifier>{ffc4c360-8a58-4d14-a588-251faf61f702}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\BattleSystem">
+      <UniqueIdentifier>{66f833d5-69a2-45d8-9cd3-abf8f354cb6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\!Game">
+      <UniqueIdentifier>{c8b61668-a307-4d03-8bc3-b5bdc7b55d10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\CharaBase">
+      <UniqueIdentifier>{7de4e082-bc0c-4915-894a-b2d52108739d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\CharaBase\!CharaBody">
+      <UniqueIdentifier>{033861ee-a305-4c97-a18b-e41a40e0c195}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\CharaBase\CharacterManager">
+      <UniqueIdentifier>{94c8373c-ebbe-4619-ba8c-307813d91670}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\CharaBase\CharaInterface">
+      <UniqueIdentifier>{d996bd63-c5c2-4d8b-9ae0-6502033cc59b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\CharaBase\CharaState">
+      <UniqueIdentifier>{ff1b6450-4284-4e5d-a4f6-6845aa244251}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\CharaBase\CharaUtil">
+      <UniqueIdentifier>{3bd4da24-2073-4cfd-884a-7489effc7a29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Enemy">
+      <UniqueIdentifier>{a58a7a8a-4df4-4721-b44b-c4a739892477}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Enemy\EnemyFactory">
+      <UniqueIdentifier>{e369c2fe-1f03-403b-844f-1b0b9de9e32d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\GameSystem">
+      <UniqueIdentifier>{c8c19d9c-7b5b-4f1a-9af4-03000f54a4f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\GameSystem\GameSpeedManager">
+      <UniqueIdentifier>{ecfefdeb-604c-4d25-b89a-126ba92bf2c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\GameSystem\GameSystemManager">
+      <UniqueIdentifier>{ea4d05b2-9d8d-402b-ae2c-6c6823f3e84b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\GameSystem\HP">
+      <UniqueIdentifier>{5aa6b0d6-309e-4276-b582-3bdc53b4201c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\GameSystem\MapLoader">
+      <UniqueIdentifier>{a3a16e41-2a25-4212-8a3d-2b4eef3cfe14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\GameSystem\MapManager">
+      <UniqueIdentifier>{553556bc-30b7-4e29-9c55-c1fc5276cf4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\GameSystem\UICharaState">
+      <UniqueIdentifier>{67ea6bbf-8675-4fca-b018-dc07051957ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\GameSystem\UISkillBox">
+      <UniqueIdentifier>{63afd665-310f-4c4a-b249-d069b0f6126d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Passive">
+      <UniqueIdentifier>{937fd312-c306-4adf-bf16-fdf331a34127}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Passive\!PassiveBase">
+      <UniqueIdentifier>{b182aa2f-5bd7-495f-b8a8-c5a8228636b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Passive\PassiveCooldownManager">
+      <UniqueIdentifier>{4a3a64e0-0302-45eb-927f-3264735cefa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Passive\PassiveFactory">
+      <UniqueIdentifier>{bafbab87-c072-41e0-a593-1b25c186f51b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Passive\Passives">
+      <UniqueIdentifier>{2a1a9a73-746e-4a94-98f0-354689cd760a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Passive\Passives\PassiveHeal">
+      <UniqueIdentifier>{d77f0071-3986-46a8-848a-3a7765dbb1e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Passive\Passives\PassiveBerserker">
+      <UniqueIdentifier>{79ccd4a8-1378-45a2-b028-c3b4c7f59535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Passive\Passives\PassiveShield">
+      <UniqueIdentifier>{945f4e65-4c4e-414f-b26c-dd8a0447aa11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Player">
+      <UniqueIdentifier>{403326c8-ef53-452d-bec3-53778e5dba85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Player\PlayerFactory">
+      <UniqueIdentifier>{94d44b60-bbfa-41c6-954d-cb9b9c78e509}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill">
+      <UniqueIdentifier>{3ee92328-c100-4581-b032-764470486c36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\!SkillBase">
+      <UniqueIdentifier>{f20ea100-79b4-4fc4-a782-f521024a4940}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\SkillFactory">
+      <UniqueIdentifier>{eea6de1e-83a6-4b46-9268-adb4c0a46c26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\Skills">
+      <UniqueIdentifier>{20ad1df2-28e7-4310-950c-fda04eeb5956}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\Skills\ShieldSkill">
+      <UniqueIdentifier>{f835d7ea-5eb1-49cd-aeb7-2d16d28ea265}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\Skills\AllHealSkill">
+      <UniqueIdentifier>{7d3cebb0-a0e9-4870-b335-2663aa9e112a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\Skills\BombSkill">
+      <UniqueIdentifier>{6f98cf5f-3741-4e57-88af-139914f52ed9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\Skills\BuffAtkSpeedSkill">
+      <UniqueIdentifier>{8c1bfc2b-ad9c-4cbe-b782-b0c7f5bf2deb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\Skills\HealSkill">
+      <UniqueIdentifier>{417d5283-7c3e-4df4-a58e-b4ec846991d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\4Game\Skill\EXSkillCooldownManager">
+      <UniqueIdentifier>{7fbd5a02-c7cc-4e72-8d2f-14dfd3c94a8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\5Result">
+      <UniqueIdentifier>{ed6f5ce6-20b8-4658-b30a-502728d36039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\5Result\Result">
+      <UniqueIdentifier>{21ff5aa0-c825-4db6-ae06-37190ca1ccfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\6Party">
+      <UniqueIdentifier>{b17f5905-2343-43e1-96f0-12b411deeed1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\6Party\!Party">
+      <UniqueIdentifier>{5c49571b-9b7a-48a4-89ec-3cf52e0af772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{cedd3e66-1818-4f61-8662-c4ae18bd227a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\!Mian">
+      <UniqueIdentifier>{422f6f51-75bb-4f88-99ff-f38ca369e1a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Value">
+      <UniqueIdentifier>{c8864ab5-b56d-4f5b-9121-cef0855e97c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Value\Pos">
+      <UniqueIdentifier>{6adf765e-37cf-407f-8eba-1e5d197b0695}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Value\Type">
+      <UniqueIdentifier>{fa39e8d1-6a71-4c8b-b667-2e4c9e88209b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Value\Vec">
+      <UniqueIdentifier>{bd9965ac-2fca-44f4-bfcc-4164129137a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Define">
+      <UniqueIdentifier>{445e5efb-143f-48e7-aae9-14cae85bb68d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\DeltaTime">
+      <UniqueIdentifier>{9f01ec00-72d6-426c-b63d-72199c7a9b9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect">
+      <UniqueIdentifier>{87389ba1-3f59-4370-a875-3962016697a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect\EffectManager">
+      <UniqueIdentifier>{b271b832-9912-48c0-93f6-f8a77dd5fed1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect\FloatingNumberEffect">
+      <UniqueIdentifier>{b94188e0-151e-4d9f-8de8-c0f1f1fa3854}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect\MouseClickEffect">
+      <UniqueIdentifier>{4b900a2a-d393-4ec6-8562-eebe8558c408}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect\MouseEffect">
+      <UniqueIdentifier>{f47fc1e0-e599-45f8-a853-10a77eb0bd1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect\MouseEffectLine">
+      <UniqueIdentifier>{0b816546-6ed7-4e99-a42e-e58b538c8646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect\ShapeEffect">
+      <UniqueIdentifier>{038e438a-8425-4d2b-8dec-c5374f425769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect\ShootingStar">
+      <UniqueIdentifier>{03395747-7825-402c-bf69-1963c2f5da2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Effect\TouchEffect">
+      <UniqueIdentifier>{3bac364d-15fa-4df3-9711-26d80970689e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\HitCheck">
+      <UniqueIdentifier>{ceec2be5-6b84-470b-b232-54fefbfffeee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Input">
+      <UniqueIdentifier>{238781a8-8851-458e-ae63-ba485e5454df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\ResourceManager">
+      <UniqueIdentifier>{b76592cb-cb29-43cf-972a-833c89b3efa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\ScreenSystem">
+      <UniqueIdentifier>{1a43caa0-aed8-44da-9cbb-d01e6949edf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\ScreenSystem\ScreenBase">
+      <UniqueIdentifier>{3e30a706-2b82-4cb0-ad3f-cbd2c1f4e5ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\ScreenSystem\ScreenManager">
+      <UniqueIdentifier>{296811f5-7673-485c-a974-61513e0f4cd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\5Result\ResultData">
+      <UniqueIdentifier>{2d01f1e6-4e3d-4dbd-9bfd-f4b5a2143bd8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Program\AllHealSkill.h">
+      <Filter>Game\4Game\Skill\Skills\AllHealSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\battlesystem.h">
+      <Filter>Game\4Game\BattleSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\body.h">
+      <Filter>Game\4Game\CharaBase\!CharaBody</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\BombSkill.h">
+      <Filter>Game\4Game\Skill\Skills\BombSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\BuffAtkSpeedSkill.h">
+      <Filter>Game\4Game\Skill\Skills\BuffAtkSpeedSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\CharacterManager.h">
+      <Filter>Game\4Game\CharaBase\CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\CharaInterface.h">
+      <Filter>Game\4Game\CharaBase\CharaInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\CharaState.h">
+      <Filter>Game\4Game\CharaBase\CharaState</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\CharaUtil.h">
+      <Filter>Game\4Game\CharaBase\CharaUtil</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\define.h">
+      <Filter>System\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\deltatime.h">
+      <Filter>System\DeltaTime</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\EffectManager.h">
+      <Filter>System\Effect\EffectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\enemy.h">
+      <Filter>Game\4Game\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\enemyfactory.h">
+      <Filter>Game\4Game\Enemy\EnemyFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\EXSkillCooldownManager.h">
+      <Filter>Game\4Game\Skill\EXSkillCooldownManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\FloatingNumberEffect.h">
+      <Filter>System\Effect\FloatingNumberEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\GameSpeedManager.h">
+      <Filter>Game\4Game\GameSystem\GameSpeedManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\GameSystemManager.h">
+      <Filter>Game\4Game\GameSystem\GameSystemManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\HealSkill.h">
+      <Filter>Game\4Game\Skill\Skills\HealSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\HitCheck.h">
+      <Filter>System\HitCheck</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\hp.h">
+      <Filter>Game\4Game\GameSystem\HP</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Input.h">
+      <Filter>System\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\m_click.h">
+      <Filter>System\Effect\MouseClickEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\m_effect.h">
+      <Filter>System\Effect\MouseEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\m_line.h">
+      <Filter>System\Effect\MouseEffectLine</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Main.h">
+      <Filter>System\!Mian</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\MapLoader.h">
+      <Filter>Game\4Game\GameSystem\MapLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\MapManager.h">
+      <Filter>Game\4Game\GameSystem\MapManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Passive.h">
+      <Filter>Game\4Game\Passive\!PassiveBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\PassiveBerserker.h">
+      <Filter>Game\4Game\Passive\Passives\PassiveBerserker</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\PassiveCooldownManager.h">
+      <Filter>Game\4Game\Passive\PassiveCooldownManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\PassiveFactory.h">
+      <Filter>Game\4Game\Passive\PassiveFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\PassiveHeal.h">
+      <Filter>Game\4Game\Passive\Passives\PassiveHeal</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\PassiveShield.h">
+      <Filter>Game\4Game\Passive\Passives\PassiveShield</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\player.h">
+      <Filter>Game\4Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\playerfactory.h">
+      <Filter>Game\4Game\Player\PlayerFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\pos.h">
+      <Filter>System\Value\Pos</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\ResourceManager.h">
+      <Filter>System\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\ScreenBase.h">
+      <Filter>System\ScreenSystem\ScreenBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\ScreenManager.h">
+      <Filter>System\ScreenSystem\ScreenManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\ShapeEffect.h">
+      <Filter>System\Effect\ShapeEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Skill.h">
+      <Filter>Game\4Game\Skill\!SkillBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\ShieldSkill.h">
+      <Filter>Game\4Game\Skill\Skills\ShieldSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\SkillFactory.h">
+      <Filter>Game\4Game\Skill\SkillFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\ShootingStar.h">
+      <Filter>System\Effect\ShootingStar</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\TouchEffect.h">
+      <Filter>System\Effect\TouchEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\type.h">
+      <Filter>System\Value\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\UICharaState.h">
+      <Filter>Game\4Game\GameSystem\UICharaState</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\vec2.h">
+      <Filter>System\Value\Vec</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\UISkillBox.h">
+      <Filter>Game\4Game\GameSystem\UISkillBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Tittle.h">
+      <Filter>Game\1Tittle\!Tittle</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Home.h">
+      <Filter>Game\2Home\!Home</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\StageSelect.h">
+      <Filter>Game\3StageSelect\!StageSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Game.h">
+      <Filter>Game\4Game\!Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Result.h">
+      <Filter>Game\5Result\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\Party.h">
+      <Filter>Game\6Party\!Party</Filter>
+    </ClInclude>
+    <ClInclude Include="Program\ResultData.h">
+      <Filter>Game\5Result\ResultData</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Program\enemy.cpp">
+      <Filter>Game\4Game\Enemy\EnemyFactory</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\GameSpeedManager.cpp">
+      <Filter>Game\4Game\GameSystem\GameSpeedManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\HitCheck.cpp">
+      <Filter>System\HitCheck</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\Input.cpp">
+      <Filter>System\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\Main.cpp">
+      <Filter>System\!Mian</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\player.cpp">
+      <Filter>Game\4Game\Player\PlayerFactory</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\ScreenManager.cpp">
+      <Filter>System\ScreenSystem\ScreenManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\ShapeEffect.cpp">
+      <Filter>System\Effect\ShapeEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\Tittle.cpp">
+      <Filter>Game\1Tittle\!Tittle</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\Home.cpp">
+      <Filter>Game\2Home\!Home</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\Game.cpp">
+      <Filter>Game\4Game\!Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\StageSelect.cpp">
+      <Filter>Game\3StageSelect\!StageSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\Result.cpp">
+      <Filter>Game\5Result\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="Program\Party.cpp">
+      <Filter>Game\6Party\!Party</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
